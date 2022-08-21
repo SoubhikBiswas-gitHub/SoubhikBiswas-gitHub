@@ -1,4 +1,5 @@
-# Hi 👋, I'm Soubhik Biawas
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Soubhik Biawas
 ## About Me 🔰: <br>A passionate front-end developer from India. I describe myself as a passionate developer who loves coding and the web platform ❤️
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="soubhik-biswas96" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/soubhik-biswas96?trk=profile-badge">SOUBHIK BISWAS 🟦</a></div>
